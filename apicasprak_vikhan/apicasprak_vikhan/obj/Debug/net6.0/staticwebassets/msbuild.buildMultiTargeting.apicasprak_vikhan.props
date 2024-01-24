@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\apicasprak_vikhan.props" />
+</Project>
